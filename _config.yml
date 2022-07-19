@@ -3,3 +3,8 @@ author: Emmanuel Kravitzch, PhD student of Computer Sciences
 description: 
 
 theme: jekyll-theme-cayman
+
+
+external: 
+- {title: Web Page of my first advisor Yezekael Hayel (LIA Avignon), url: "https://sites.google.com/site/yezekaelhayelsite/"}
+- {title: Web Page of my second advisor Vineeth S. Varma (CRAN Nancy), url: "https://sites.google.com/site/vineethshome/"}
