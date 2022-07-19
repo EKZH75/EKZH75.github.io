@@ -21,7 +21,7 @@ Background:
 
 # publications
 
-- IEEE-LCSS 2022 available [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9803279&casa_token=bmjKZeAXvPgAAAAA:nsdyPdc4iCQIZWK-MLKhbOAG0VT1Z-oDbMvdP93N4OWKnKLWWgGmTz1vu5y8pR1UOMwFSJjpLOwi&tag=1)
+- _Stability Analysis of a Socially Inspired Adaptive Voter Model_, published in IEEE CONTROL SYSTEMS LETTERS, VOL. 7, 2023.  Available [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9803279&casa_token=bmjKZeAXvPgAAAAA:nsdyPdc4iCQIZWK-MLKhbOAG0VT1Z-oDbMvdP93N4OWKnKLWWgGmTz1vu5y8pR1UOMwFSJjpLOwi&tag=1).
 
 # Conference & talks
 
@@ -31,7 +31,7 @@ Background:
 
 - Talk at the seminar of the [CRAN lab](http://www.cran.univ-lorraine.fr/francais/themes_rech/cid/co2.php) (Nancy, May 2022). Thank you [Romain Postoyan](https://sites.google.com/site/romainpostoyan/home) for this kind invitation.
 
-- Short presentation at  [ROADEF 2022](https://www.roadef.org/article-news-roadef.php?id=129&title=Prochain-congres-2022-%C3%A0-Lyon-) within the session _Temporal Graphs_ (Lyon, February 2022).
+- Short presentation at  [ROADEF 2022](https://www.roadef.org/article-news-roadef.php?id=129&title=Prochain-congres-2022-%C3%A0-Lyon-) within the session _Temporal Graphs_ (Lyon, February 2022). Abstract available [here](https://hal.archives-ouvertes.fr/hal-03595225/document).
 
 - Poster at [Complex Networks 2021](https://2021.complexnetworks.org/) (Madrid, October 2021).
 
