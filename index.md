@@ -23,7 +23,7 @@ Background:
 
 - _Stability Analysis of a Socially Inspired Adaptive Voter Model_, published in IEEE CONTROL SYSTEMS LETTERS, VOL. 7, 2023.  Available [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9803279&casa_token=bmjKZeAXvPgAAAAA:nsdyPdc4iCQIZWK-MLKhbOAG0VT1Z-oDbMvdP93N4OWKnKLWWgGmTz1vu5y8pR1UOMwFSJjpLOwi&tag=1).
 
-### Conference & Talks
+### Talks & Conferences
 
 - Short presentation at [Complex Networks 2022](https://complexnetworks.org/) (Palerme, November 2022).
 
