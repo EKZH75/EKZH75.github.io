@@ -7,11 +7,11 @@ I am a PhD candidate of Computer Sciences.
 ### About me:
 Affiliations: LIA Avignon (France) and L2S Centrale-Supélec (France). 
 
-Fundings: [ANR NiceTweet](https://anr.fr/Projet-ANR-20-CE48-0009)
+Fundings: [ANR NiceTweet](https://anr.fr/Projet-ANR-20-CE48-0009).
 
 Advisors: [Yezekael Hayel](https://sites.google.com/site/yezekaelhayelsite/) (LIA), [Vineeth S. Varma](https://sites.google.com/site/vineethshome/) (CRAN) and [Antoine O. Berthet](https://l2s.centralesupelec.fr/u/berthet-antoine/) (L2S).
 
-Research interests: adaptive networks in the context of social systems.
+Research interests: adaptive networks, opinion dynamics.
 
 Background:
 
