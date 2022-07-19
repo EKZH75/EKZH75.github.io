@@ -1,6 +1,6 @@
-# Welcome to the home page of Emmanuel Kravitzch !
 
-I am a PhD candidate of Computer Sciences. 
+
+I am a 2nd year PhD candidate of Computer Sciences. I have started my thesis in October 2021. 
 
 <!--You can use the [editor on GitHub](https://github.com/EKZH75/EKZH75.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
