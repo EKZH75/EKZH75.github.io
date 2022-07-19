@@ -1,10 +1,10 @@
 # Welcome to the home page of Emmanuel Kravitzch !
 
-I am a PhD candidate of Computer sciences. 
+I am a PhD candidate of Computer Sciences. 
 
-You can use the [editor on GitHub](https://github.com/EKZH75/EKZH75.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/EKZH75/EKZH75.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-# About me:
+### About me:
 Affiliations: LIA Avignon (France) and L2S Centrale-Supélec (France). 
 
 Fundings: [ANR NiceTweet](https://anr.fr/Projet-ANR-20-CE48-0009)
@@ -19,11 +19,11 @@ Background:
 
 - bachelor of  [Applied Mathematics](https://dauphine.psl.eu/formations/licences/mathematiques) at Université Paris Dauphine (2013-2016).
 
-# publications
+### Publications
 
 - _Stability Analysis of a Socially Inspired Adaptive Voter Model_, published in IEEE CONTROL SYSTEMS LETTERS, VOL. 7, 2023.  Available [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9803279&casa_token=bmjKZeAXvPgAAAAA:nsdyPdc4iCQIZWK-MLKhbOAG0VT1Z-oDbMvdP93N4OWKnKLWWgGmTz1vu5y8pR1UOMwFSJjpLOwi&tag=1).
 
-# Conference & talks
+### Conference & Talks
 
 - Short presentation at [Complex Networks 2022](https://complexnetworks.org/) (Palerme, November 2022).
 
@@ -36,38 +36,22 @@ Background:
 - Poster at [Complex Networks 2021](https://2021.complexnetworks.org/) (Madrid, October 2021).
 
 
+### Teaching
 
+- 1st year level of _algorithmics & programming_ (practical work sessions) within the [CERI](https://ceri.univ-avignon.fr/) (54 hours between September 2022 and January 2023).
+
+
+<!--
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EKZH75/EKZH75.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+(https://github.com/EKZH75/EKZH75.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
