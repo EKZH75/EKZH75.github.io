@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the home page of Emmanuel Kravitzch
 
 You can use the [editor on GitHub](https://github.com/EKZH75/EKZH75.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+I am a PhD student of Computer sciences between two labs: LIA Avignon (France) and L2S Centrale-Supélec (France). 
+[Yezekael Hayel](https://sites.google.com/site/yezekaelhayelsite/) (LIA), [Vineeth S. Varma](https://sites.google.com/site/vineethshome/) (CRAN) and Antoine O. Berthet have the heavy duty to supervise me. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
