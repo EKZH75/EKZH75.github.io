@@ -27,7 +27,7 @@ Background:
 
 ### Talks & Conferences
 
-- Short presentation at [Complex Networks 2022](https://complexnetworks.org/) (Palerme, November 2022).
+- Short presentation at [Complex Networks 2022](https://complexnetworks.org/) (Palerme, November 2022). Abstract available [here](https://drive.google.com/file/d/1_KS2AryMoeKKyqWpQYMxavHMnmJeqgoa/view?usp=sharing).
 
 - Short presentation within the bi-annual meeting of the [ANR BOOM](https://anr.fr/Projet-ANR-20-CE23-0024) (Avignon, June 2022). Thank you [Christèle Lagier](https://univ-droit.fr/universitaires/25731-christele-lagier) for this kind invitation.
 
