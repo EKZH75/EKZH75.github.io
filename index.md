@@ -17,7 +17,7 @@ Background:
 
 - degree of [Probability & Random Models](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathematiques-et-applications/m2-parcours-probabilites-et-modeles) at UPMC Paris VI (2018-2019).
 
-- end-of-course internship: _Mean-Field analysis of a queueing system_, under the guidance of [Christine Fricker](https://team.inria.fr/rap/members/fricker/) at Team [Dyogène](https://www.inria.fr/fr/dyogene) (Inria Paris).
+- end-of-course internship: _Mean-Field analysis of a queueing system_, under the guidance of [Christine Fricker](https://team.inria.fr/rap/members/fricker/) within the Team [Dyogène](https://www.inria.fr/fr/dyogene) (Inria Paris).
 
 - bachelor of  [Applied Mathematics](https://dauphine.psl.eu/formations/licences/mathematiques) at Université Paris Dauphine (2013-2016).
 
