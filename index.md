@@ -22,10 +22,12 @@ Background:
 - bachelor of  [Applied Mathematics](https://dauphine.psl.eu/formations/licences/mathematiques) at Université Paris Dauphine (2013-2016).
 
 ### Publications
-
+- _Analysis of a continuous-time adaptive voter model_, published in PHYSICAL REVIEW E 107, 054307 (2023). Available [here](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.107.054307?casa_token=1R-y8OO1mOwAAAAA%3AT7gAS2Sbthpj_8XNS3bsOlmTUh99q1WsIneG_0eaigKpHrrSHIjNNAWHY8zUJbVfXurdpSjdbPNurg).
 - _Stability Analysis of a Socially Inspired Adaptive Voter Model_, published in IEEE CONTROL SYSTEMS LETTERS, VOL. 7, 2023.  Available [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9803279&casa_token=bmjKZeAXvPgAAAAA:nsdyPdc4iCQIZWK-MLKhbOAG0VT1Z-oDbMvdP93N4OWKnKLWWgGmTz1vu5y8pR1UOMwFSJjpLOwi&tag=1).
 
 ### Talks & Conferences
+
+- _A two-layer Opinion Dynamics model coupling static and bounded-confidence interactions_, accepted in 62nd IEEE Conference on Decision and Control (CDC 2023). To appear. 
 
 - Short presentation at [Complex Networks 2022](https://complexnetworks.org/) (Palerme, November 2022). Abstract available [here](https://drive.google.com/file/d/1_KS2AryMoeKKyqWpQYMxavHMnmJeqgoa/view?usp=sharing).
 
@@ -42,7 +44,17 @@ Background:
 
 - 1st year level of _algorithmics & programming_ (practical work sessions) within the [CERI](https://ceri.univ-avignon.fr/) (September 2022 - January 2023).
 
+### Infra-Doctoral Mobilities
 
+- three months session within the [TELIN](https://telin.ugent.be/telin/) at Ghent University under the guidance of Pr. Koen de Turck and funded by the Perdiguier program (June-August 2023).
+- ad hoc exploratory collaboration within economists and social scientists of the lab [LBNC](https://lbnc.univ-avignon.fr/) in a transdisciplinary perspective (September-December 2023). Funded by the [H-CODE federation](https://www.universite-paris-saclay.fr/objets-interdisciplinaires/h-code).
+
+### Hobbies
+- chess player at competition level: see my [FIDE profile](https://ratings.fide.com/profile/20613792).
+- poetry amateur. Participation in several writing workshops.
+
+### Contacts
+- mail: emmanuel.kravitzch@{gmail.com (personal), alumni.univ-avignon.fr, centralesupelec.fr}
 <!--
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
